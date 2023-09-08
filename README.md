@@ -102,8 +102,8 @@
 
 ### 投喂作者🍭🍭🍭
 
-<div  onclick="this.src='images/coffee.png'";>
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="投喂作者🍭" style="height: 40px !important;width: 145px !important;" >
+<a href="https://github.com/airhandsome/airhandsome/blob/main/images/coffee.png">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="投喂作者🍭" style="height: 40px !important;width: 145px !important;" ></a>
 </div>
 <br>
 </div>
