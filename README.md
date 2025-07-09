@@ -92,7 +92,7 @@
 
 
 ### Github 贡献图
-[![fomalhaut1998's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fomalhaut1998&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![airhandsome's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=airhandsome&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 
